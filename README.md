@@ -28,9 +28,9 @@ OOP · SOLID Principles · Design Patterns · Clean Architecture · Agile/Scrum 
 
 ## 🚀 What I've Built
 
-- ⚡ Optimized a batch processing system achieving **66% performance improvement** in a fintech product
 - 🐛 Resolved **20+ production issues** across backend APIs, SQL queries, and React frontend
 - 📊 Built a **Risk Aggregator System** with 15 configurable computation methods and async report generation
+- ⚡ Optimized a batch processing system achieving **66% performance improvement** in a fintech product
 - 🤖 Automated release documentation using Jira API — reduced effort from **2 hours to 30 minutes**
 - 🔍 Implemented **OpenTelemetry distributed tracing** to improve monitoring across backend services
 
